@@ -1,3 +1,7 @@
+/*
+Q2:What are the skills required for these top paying roles?
+*/
+
 WITH top_paying_jobs AS (
     SELECT
     job_id,
