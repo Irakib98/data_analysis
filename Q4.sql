@@ -1,3 +1,6 @@
+/*
+What are the top skills based on salary for my role?
+*/
 SELECT 
     skills,
     ROUND(AVG(salary_year_avg),0) AS average_salary
