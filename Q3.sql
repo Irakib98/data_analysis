@@ -1,3 +1,6 @@
+/*
+What are the most in-demand skills for my role?
+*/
 SELECT 
     skills,
     COUNT(skills_job_dim.job_id) AS demand_count
