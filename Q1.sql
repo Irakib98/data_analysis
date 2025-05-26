@@ -1,3 +1,7 @@
+/*
+Q1:What are the top paying data analyst jobs?
+*/
+
 SELECT
     job_id,
     job_title,
