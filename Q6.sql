@@ -1,6 +1,6 @@
 --How many jobs are there for data analysts in Bangladesh?
 
-ELECT 
+SELECT 
     j.job_location,
     j.job_title_short,
     c.name AS company_name,
